@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R20 Old Footprint=FP-MRS25-MFG New Footprint=FP-MRS25-MFG
+Change Component Footprint: Designator=LED3 Old Footprint=WL-TMRC_D5.9H8.7 New Footprint=WL-TMRC_D5.9H8.7
+Added Pin To Net: NetName=Vcc Pin=U10-20
+Added Pin To Net: NetName=GND Pin=U10-22
