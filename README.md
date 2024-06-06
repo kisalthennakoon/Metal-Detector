@@ -4,7 +4,7 @@ Welcome to the Waveform Wonders Metal Detector project repository! 🌐
 
 ## Project Overview
 
-This repository showcases the collaborative efforts of our talented team – Avinda Shamal, Thamirawaran, Rajitha, and [Your Name]. Together, we've developed an advanced Very Low Frequency (VLF) metal detector, emphasizing precision, functionality, and user-friendliness.
+This repository showcases the collaborative efforts of our talented team – Avinda Shamal, Thamirawaran, Rajitha, and I myself. Together, we've developed an advanced Very Low Frequency (VLF) metal detector, emphasizing precision, functionality, and user-friendliness.
 
 ## Key Features
 
